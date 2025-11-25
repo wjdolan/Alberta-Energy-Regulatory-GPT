@@ -25,7 +25,7 @@ It retrieves relevant directive references and provides concise, context-aware s
 ## 🖼️ Interface Preview  
 
 *(Replace this path with your uploaded image path after committing the screenshot)*  
-![AER Directives Screenshot](INSERT_IMAGE_PATH_HERE)
+![AER Directives Screenshot](https://github.com/wjdolan/Alberta-Energy-Regulatory-GPT/blob/main/chatGPT.png)
 
 ---
 
