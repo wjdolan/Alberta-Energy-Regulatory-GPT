@@ -24,7 +24,7 @@ It retrieves relevant directive references and provides concise, context-aware s
 
 ## 🖼️ Interface Preview  
 
-![AER Directives Screenshot]([AER Directives 2511.png](https://github.com/wjdolan/Alberta-Energy-Regulatory-GPT/blob/main/AER%20Directives%202511.png))
+![AER Directives Screenshot](https://github.com/wjdolan/Alberta-Energy-Regulatory-GPT/blob/main/AER%20Directives%202511.png)
 
 ---
 
